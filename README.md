@@ -12,9 +12,8 @@
 ### Installation Steps for Simple Screenshot Capture
 
 #### Download the Extension:
-1. Go to the GitHub repository: **Simple Screenshot Capture**.
-2. Click on the green **“Code”** button and select **“Download ZIP”**.
-3. Extract the downloaded ZIP file to a folder on your computer.
+1. Click on the green **“Code”** button and select **“Download ZIP”**.
+2. Extract the downloaded ZIP file to a folder on your computer.
 
 #### Add the Extension to Chrome:
 1. Open Google Chrome and navigate to `chrome://extensions/`.
